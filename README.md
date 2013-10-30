@@ -3,6 +3,8 @@ Jquery-Oembed-All
 
 This is a fork (with a lot of changes) of the jquery-oembed located at http://code.google.com/p/jquery-oembed/.
 
+Forked by Robert Borrego to fix SSL YouTube embeds.
+
 Instead of using oohembed or other such services it tries to embed the object natively without having to use some kind of local server.
 This project will happily use native oembed services when it can, however it also use other types of embedding whenever oembed is not possible.
 

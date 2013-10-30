@@ -6,7 +6,8 @@
  * 
  * Orignal Author: Richard Chamorro 
  * Forked by Andrew Mee to Provide a slightly diffent kind of embedding 
- * experience
+ * experience.
+ * Forked again by Robert Borrego for fixes to SSL YouTube embeds
  */
 (function($) {
     $.fn.oembed = function(url, options, embedAction) {
